@@ -1,18 +1,14 @@
 <div align="center">
 
 ```
-╔══════════════════════════════════════════════════════════════════════════════╗
-║                                                                            ║
-║   ██╗   ██╗ █████╗ ███████╗ █████╗ ███╗   ██╗████████╗██╗  ██╗            ║
-║   ██║   ██║██╔══██╗██╔════╝██╔══██╗████╗  ██║╚══██╔══╝██║  ██║            ║
-║   ██║   ██║███████║███████╗███████║██╔██╗ ██║   ██║   ███████║            ║
-║   ╚██╗ ██╔╝██╔══██║╚════██║██╔══██║██║╚██╗██║   ██║   ██╔══██║            ║
-║    ╚████╔╝ ██║  ██║███████║██║  ██║██║ ╚████║   ██║   ██║  ██║            ║
-║     ╚═══╝  ╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝╚═╝  ╚═══╝   ╚═╝   ╚═╝  ╚═╝            ║
-║                                                                            ║
-║                    Backend Developer | Java | AWS                           ║
-║                                                                            ║
-╚══════════════════════════════════════════════════════════════════════════════╝
+ ██╗   ██╗ █████╗ ███████╗ █████╗ ███╗   ██╗████████╗██╗  ██╗
+ ██║   ██║██╔══██╗██╔════╝██╔══██╗████╗  ██║╚══██╔══╝██║  ██║
+ ██║   ██║███████║███████╗███████║██╔██╗ ██║   ██║   ███████║
+ ╚██╗ ██╔╝██╔══██║╚════██║██╔══██║██║╚██╗██║   ██║   ██╔══██║
+  ╚████╔╝ ██║  ██║███████║██║  ██║██║ ╚████║   ██║   ██║  ██║
+   ╚═══╝  ╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝╚═╝  ╚═══╝   ╚═╝   ╚═╝  ╚═╝
+
+                Backend Developer | Java | AWS
 ```
 
 <a href="https://git.io/typing-svg">
@@ -28,16 +24,12 @@ $ whoami
 ```
 
 ```
-╭──────────────────────────────────────────────────────────╮
-│                                                          │
-│   Name       Vasanth Kumar Nimmiti                       │
-│   Role       Backend Developer                           │
-│   Stack      Java · Spring Boot · MySQL · AWS            │
-│   Cert       AWS Certified Cloud Practitioner            │
-│   CGPA       9.31 @ KL University                        │
-│   Status     Open to opportunities ✓                     │
-│                                                          │
-╰──────────────────────────────────────────────────────────╯
+  Name      Vasanth Kumar Nimmiti
+  Role      Backend Developer
+  Stack     Java · Spring Boot · MySQL · AWS
+  Cert      AWS Certified Cloud Practitioner
+  CGPA      9.31 @ KL University
+  Status    Open to opportunities ✓
 ```
 
 <!-- ──────────────────────────────────────────────── -->
@@ -53,18 +45,18 @@ languages/
 ├── Python
 ├── JavaScript
 ├── HTML / CSS
-│
+
 frameworks/
 ├── Spring Boot
 ├── Spring MVC
 ├── React
-│
+
 databases/
 ├── MySQL
-│
+
 cloud/
 ├── AWS (S3 · EC2 · Amplify)
-│
+
 tools/
 ├── Git
 ├── Maven
@@ -80,12 +72,8 @@ $ cat certifications.log
 ```
 
 ```
-┌──────────────────────────────────────────────────────────┐
-│                                                          │
-│   [✓] AWS Certified Cloud Practitioner     — PASSED      │
-│   [⟳] AWS Solutions Architect Associate    — IN PROGRESS │
-│                                                          │
-└──────────────────────────────────────────────────────────┘
+  [✓] AWS Certified Cloud Practitioner    — PASSED
+  [⟳] AWS Solutions Architect Associate   — IN PROGRESS
 ```
 
 <!-- ──────────────────────────────────────────────── -->
@@ -131,17 +119,13 @@ $ cat projects.log
 ```
 
 ```
-┌──────────────────────────────────────────────────────────┐
-│                                                          │
-│   [01] vasanth.jar — Terminal Portfolio                   │
-│        React · Vite · JetBrains Mono                     │
-│        A fully interactive terminal-themed portfolio      │
-│                                                          │
-│   [02] Discharge Genius                                  │
-│        Spring Boot · AWS · MySQL                         │
-│        Cloud-deployed medical discharge management       │
-│                                                          │
-└──────────────────────────────────────────────────────────┘
+  [01] vasanth.jar — Terminal Portfolio
+       React · Vite · JetBrains Mono
+       A fully interactive terminal-themed portfolio
+
+  [02] Discharge Genius
+       Spring Boot · AWS · MySQL
+       Cloud-deployed medical discharge management
 ```
 
 <!-- ──────────────────────────────────────────────── -->
@@ -176,11 +160,7 @@ $ history
 <div align="center">
 
 ```
-╔══════════════════════════════════════════════════════════╗
-║                                                         ║
-║      Thanks for visiting! Star ⭐ if you like it        ║
-║                                                         ║
-╚══════════════════════════════════════════════════════════╝
+  Thanks for visiting! Star ⭐ if you like it
 ```
 
 <img src="https://komarev.com/ghpvc/?username=Vasanth-0706&style=flat-square&color=00FF00&labelColor=000000&label=visitors@vasanth:~$" alt="Profile Views" />
