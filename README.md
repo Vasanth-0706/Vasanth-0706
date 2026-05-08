@@ -117,16 +117,16 @@ $ cat leetcode_stats.log
 ```
 $ cat projects.log
 ```
-
+<!-- 
 ```
-  <!-- [01] vasanth.jar — Terminal Portfolio
+  [01] vasanth.jar — Terminal Portfolio
        React · Vite · JetBrains Mono
        A fully interactive terminal-themed portfolio
 
   [02] Discharge Genius
        Spring Boot · AWS · MySQL
-       Cloud-deployed medical discharge management -->
-```
+       Cloud-deployed medical discharge management
+``` -->
 
 <!-- ──────────────────────────────────────────────── -->
 
